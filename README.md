@@ -7,17 +7,65 @@
 </div>
 
 ### Technologies
-![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=E84F1D)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=black&color=EFD81D)
+<section style="display: inline-block;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    />
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+    />
+  </a>
+  </a>
+    <a href="https://github.com/betrybe">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  </a>
+</section>
 
 ### Education
-<p>
-  <a href="https://github.com/betrybe"><img src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88"></a>
-</p>
+<section>
+  <a href="https://github.com/betrybe">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88">
+</section>
 
 ### You can reach me at
-<p>
-  <a href="https://www.linkedin.com/in/joaopedrolage/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30"></a>
-  <a href="mailto:joaopedro.lage@outlook.com"><img src="https://i.pinimg.com/564x/b6/00/dd/b600dd1f6435b5199ccaaf7bd54d8a06.jpg" height="30" width="30"></a>
-</p>
+<section>
+  <a href="https://www.linkedin.com/in/flaviobianchetti/">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="mailto:joaopedro.lage@outlook.com">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    />
+  </a>
+</section>
