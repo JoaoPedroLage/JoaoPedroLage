@@ -56,16 +56,18 @@
 
 ### You can reach me at
 <section>
-  <a href="https://www.linkedin.com/in/flaviobianchetti/">
+  <a href="https://www.linkedin.com/in/joaopedrolage/">
     <img
       height="30"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="blank"
     />
   </a>
   <a href="mailto:joaopedro.lage@outlook.com">
     <img 
       height="30"
       src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+      target="blank"
     />
   </a>
 </section>
