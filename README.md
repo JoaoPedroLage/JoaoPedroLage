@@ -1,17 +1,15 @@
-## Glad to have you here! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px"> 
+## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px"> 
 
 <div align="center">
   <a href="https://github.com/coutinhomarco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/> -->
 </div>
 
 ### Technologies
 ![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=E84F1D)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=black&color=EFD81D)
-![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=5ED3F3&color=1E2128)
-![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=509941)
 
 ### Education
 <p>
