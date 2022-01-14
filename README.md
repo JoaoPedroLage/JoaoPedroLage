@@ -1,25 +1,20 @@
-package main
+## Glad to have you here! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px">
+My name is Joao and I'm a brazilian web developer passionate about technologies! 
 
-import (
-	"fmt"
-)
+### Technologies
+![HTML](https://img.shields.io/badge/HTML-blue?logo=html5&logoColor=white&color=E84F1D)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white&color=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?logo=javascript&logoColor=black&color=EFD81D)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=5ED3F3&color=1E2128)
+![NodeJS](https://img.shields.io/badge/Node.js-blue?logo=node.js&logoColor=white&color=509941)
 
-type Bio map[string]string
+### Education
+<p>
+  <a href="https://github.com/betrybe"><img src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88"></a>
+</p>
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+### Where you can reach me
+<p>
+  <a href="https://www.linkedin.com/in/joaopedrolage/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=0073B1"></a>
+  <a href="mailto:joaopedro.lage@outlook.com"><img src="https://img.shields.io/badge/Email-oi@joaonasc.dev-white"></a>
+</p>
