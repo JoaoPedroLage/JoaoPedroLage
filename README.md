@@ -1,9 +1,9 @@
 ## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px"> 
 <span>To open links in a new tab use CTRL + mouse click</span>
 
-<div display="flex" justify-content="space-evenly">
+<div align="center">
 <!--   <a href="https://github.com/JoaoPedroLage"> -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api? username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
 <!--   </a> -->
 </div>
