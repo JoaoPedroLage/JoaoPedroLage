@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/coutinhomarco">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Technologies
@@ -14,7 +14,7 @@
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       />
   </a>
-  <a href="https://docs.python.org/3/" target="blank">
+  <a href="https://docs.python.org/3/" target="_blank">
     <img 
       height="30"
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
