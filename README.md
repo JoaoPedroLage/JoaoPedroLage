@@ -8,7 +8,7 @@
 
 ### Technologies
 <section style="display: inline-block;">
-  <a href="https://isocpp.org/std/the-standard" target="_blank">
+  <a target="_blank" href="https://isocpp.org/std/the-standard">
     <img 
       height="30"
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
