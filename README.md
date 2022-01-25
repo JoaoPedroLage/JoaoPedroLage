@@ -20,6 +20,7 @@
       src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
      />
   </a>
+  <br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
     <img
       height="30"
@@ -50,6 +51,7 @@
       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     />
   </a>
+  <br/>
   <a href="https://dev.mysql.com/doc/" target="blank">
     <img 
       height="30"
