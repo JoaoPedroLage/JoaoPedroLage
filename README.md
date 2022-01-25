@@ -8,41 +8,59 @@
 
 ### Technologies
 <section style="display: inline-block;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img
+  <a>
+    <img 
       height="30"
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    />
+      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+      />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img
+  <a>
+    <img 
       height="30"
-      src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
-    />
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
     <img
       height="30"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    />
+  </a>
+  <a href="https://reactjs.org/">
     <img
       height="30"
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
     />
   </a>
-  <a href="https://redux.js.org/" target="_blank">
+  <a href="https://redux.js.org/">
     <img
       height="30"
       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     />
   </a>
-  </a>
-    <a href="https://github.com/betrybe">
+  <a>
     <img 
       height="30"
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+      src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+     />
+  </a>
+  <a>
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+     />
   </a>
 </section>
 
