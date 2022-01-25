@@ -1,14 +1,14 @@
 ## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px"> 
 
 <div align="center">
-  <a href="https://github.com/coutinhomarco">
+  <a href="https://github.com/JoaoPedroLage">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Technologies
 <section style="display: inline-block;">
-  <a href="https://isocpp.org/std/the-standard" target="blank">
+  <a href="https://isocpp.org/std/the-standard" target="_blank">
     <img 
       height="30"
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
