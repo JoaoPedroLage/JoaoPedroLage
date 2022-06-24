@@ -1,6 +1,6 @@
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg) -->
 
-## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px"> 
+## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="23px" height="150em"> 
 <span>To open links in a new tab use CTRL + mouse click</span>
 
 <div align="center">
