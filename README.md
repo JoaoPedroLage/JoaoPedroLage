@@ -9,7 +9,7 @@
   ! It's a pleasure!
 </h1>
 <br>
-<span>🇧🇷 - Para abrir os links em uma nova aba use CTRL + clik botão do mouse</span>
+<span>🇧🇷 - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
 <br>
 <span>🇺🇸 - To open links in a new tab use CTRL + mouse click</span>
 
