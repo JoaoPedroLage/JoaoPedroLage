@@ -1,8 +1,8 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
 
-## pt - Olá, é um prazer ter você aqui!
-## en - Hi, it's a pleasure! 
-<img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="150px" height="150em"> 
+<span>pt - Olá, é um prazer ter você aqui!</span>
+<span>en - Hi, it's a pleasure!</span>
+<img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="50px" height="50em"> 
 <span>pt - Para abrir os links em uma nova aba use CTRL + clik botão do mouse</span>
 <span>en - To open links in a new tab use CTRL + mouse click</span>
 
