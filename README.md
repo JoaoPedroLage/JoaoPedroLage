@@ -1,8 +1,9 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
 
-<h1>🇧🇷 - Olá, é um prazer ter você aqui!</h1>
-<br>
-<h1>🇺🇸 - Hi, it's a pleasure!</h1>
+<div style="display: flex; flex-direction: row;">
+  <h1>🇧🇷 - Olá, é um prazer ter você aqui!</h1>
+  <h1>🇺🇸 - Hi, it's a pleasure!</h1>
+</div>
 <br>
 <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="100px" height="100px"> 
 <br>
@@ -10,17 +11,14 @@
 <br>
 <span>🇺🇸 - To open links in a new tab use CTRL + mouse click</span>
 
-
-<div align="center">
+<div align="center" style="margin-top: 25px">
   <a href="https://github.com/JoaoPedroLage">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 
-<h2>🇧🇷 - Tecnologias</h2>
-<br>
-<h2>🇺🇸 - Technologies</h2>
+<h2>🇧🇷 - Tecnologias | 🇺🇸 - Technologies</h2>
 <section style="display: inline-block;">
   <a href="https://isocpp.org/std/the-standard">
     <img 
@@ -80,9 +78,7 @@
   </a>
 </section>
 
-<h2>🇧🇷 - Educação</h2>
-<br>
-<h2>🇺🇸 - Education</h2>
+<h2>🇧🇷 - Educação | 🇺🇸 - Education</h2>
 <section>
   <a href="https://github.com/betrybe">
     <img 
@@ -91,10 +87,7 @@
     />
 </section>
 
-### You can reach me at
-<h2>🇧🇷 - Você pode entrar em contato</h2>
-<br>
-<h2>🇺🇸 - You can reach me at</h2>
+<h2>🇧🇷 - Entre em contato comigo! | 🇺🇸 - You can reach me at!</h2>
 <section>
   <a href="https://www.linkedin.com/in/joaopedrolage/">
     <img
