@@ -67,11 +67,47 @@
       src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
     />
   </a>
+  <a href="https://reactnative.dev/docs/getting-started">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+    />
+  </a>
+  <a href="https://docs.expo.dev/">
+    <img
+      height="30"
+      src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"
+    />
+  </a>
   <br/>
+  <a href="https://www.typescriptlang.org/docs/">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+     />
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+     />
+  </a>
+  <a href="https://expressjs.com/">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
+     />
+  </a>
   <a href="https://dev.mysql.com/doc/">
     <img 
       height="30"
       src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+     />
+  </a>
+  <a href="https://www.mongodb.com/docs/">
+    <img 
+      height="30"
+      src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
      />
   </a>
   <a href="https://docs.docker.com/">
@@ -91,7 +127,7 @@
     />
 </section>
 
-<h2>🇧🇷 - Entre em contato comigo! | 🇺🇸 - You can reach me at!</h2>
+<h2>🇧🇷 - Você pode me contatar pelo: | 🇺🇸 - You can reach me at:</h2>
 <section>
   <a href="https://www.linkedin.com/in/joaopedrolage/">
     <img
