@@ -1,8 +1,12 @@
 <h1>
-  🇧🇷 - Olá, é um prazer ter você aqui!
+  🇧🇷 - Olá
+  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="50px" height="50em">
+  ! É um prazer ter você aqui!
 </h1>
 <h1>
-  🇺🇸 - Hi, it's a pleasure!
+  🇺🇸 - Hi
+  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="50px" height="50em">
+  ! It's a pleasure!
 </h1>
 <br>
 <span>🇧🇷 - Para abrir os links em uma nova aba use CTRL + clik botão do mouse</span>
