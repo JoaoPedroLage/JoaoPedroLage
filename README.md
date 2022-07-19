@@ -1,5 +1,3 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
-
 <h1>
   🇧🇷 - Olá, é um prazer ter você aqui!
 </h1>
@@ -127,7 +125,7 @@
     />
 </section>
 
-<h2>🇧🇷 - Você pode me contatar pelo: | 🇺🇸 - You can reach me at:</h2>
+<h2>🇧🇷 - Você pode me contatar através do | 🇺🇸 - You can reach me at</h2>
 <section>
   <a href="https://www.linkedin.com/in/joaopedrolage/">
     <img
