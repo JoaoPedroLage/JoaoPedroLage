@@ -1,11 +1,11 @@
 <h1>
   🇧🇷 - Olá
-  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="50px" height="50em">
+  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px" height="30px">
   ! É um prazer ter você aqui!
 </h1>
 <h1>
   🇺🇸 - Hi
-  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="50px" height="50em">
+  <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px" height="30px">
   ! It's a pleasure!
 </h1>
 <br>
