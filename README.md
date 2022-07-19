@@ -1,7 +1,9 @@
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg) -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
 
-## Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="150px" height="150em"> 
-<span>To open links in a new tab use CTRL + mouse click</span>
+## pt- Olá, é um prazer ter você aqui! | en- Hi, it's a pleasure! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="150px" height="150em"> 
+<span>pt - Para abrir os links em uma nova aba use CTRL + clik botão do mouse</span>
+<span>en - To open links in a new tab use CTRL + mouse click</span>
+
 
 <div align="center">
   <a href="https://github.com/JoaoPedroLage">
@@ -10,7 +12,8 @@
   </a>
 </div>
 
-### Technologies
+### pt - Tecnologias
+### en - Technologies
 <section style="display: inline-block;">
   <a href="https://isocpp.org/std/the-standard">
     <img 
@@ -70,7 +73,8 @@
   </a>
 </section>
 
-### Education
+### pt - Educação
+### en - Education
 <section>
   <a href="https://github.com/betrybe">
     <img 
