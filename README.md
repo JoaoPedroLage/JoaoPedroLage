@@ -141,4 +141,6 @@
   </a>
 </section>
   
- 
+ <br>
+  
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
