@@ -10,11 +10,11 @@
 <span>🇺🇸 - To open links in a new tab use CTRL + mouse click</span>
 
 <div align="center">
-    <a href="https://github.com/JoaoPedroLage">
       <br>
       <br>
       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
+      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrolage&theme=dark" alt="joaopedrolage" />
       <br>
       <br>
     </a>
