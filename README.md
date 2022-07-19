@@ -1,10 +1,14 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
 
-<span>pt - Olá, é um prazer ter você aqui!</span>
-<span>en - Hi, it's a pleasure!</span>
-<img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="50px" height="50em"> 
-<span>pt - Para abrir os links em uma nova aba use CTRL + clik botão do mouse</span>
-<span>en - To open links in a new tab use CTRL + mouse click</span>
+<h1>🇧🇷 - Olá, é um prazer ter você aqui!</h1>
+<br>
+<h1>🇺🇸 - Hi, it's a pleasure!</h1>
+<br>
+<img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="100px" height="100px"> 
+<br>
+<span>🇧🇷 - Para abrir os links em uma nova aba use CTRL + clik botão do mouse</span>
+<br>
+<span>🇺🇸 - To open links in a new tab use CTRL + mouse click</span>
 
 
 <div align="center">
@@ -14,8 +18,9 @@
   </a>
 </div>
 
-### pt - Tecnologias
-### en - Technologies
+<h2>🇧🇷 - Tecnologias</h2>
+<br>
+<h2>🇺🇸 - Technologies</h2>
 <section style="display: inline-block;">
   <a href="https://isocpp.org/std/the-standard">
     <img 
@@ -75,16 +80,21 @@
   </a>
 </section>
 
-### pt - Educação
-### en - Education
+<h2>🇧🇷 - Educação</h2>
+<br>
+<h2>🇺🇸 - Education</h2>
 <section>
   <a href="https://github.com/betrybe">
     <img 
       height="30"
-      src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88">
+      src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88"
+    />
 </section>
 
 ### You can reach me at
+<h2>🇧🇷 - Você pode entrar em contato</h2>
+<br>
+<h2>🇺🇸 - You can reach me at</h2>
 <section>
   <a href="https://www.linkedin.com/in/joaopedrolage/">
     <img
