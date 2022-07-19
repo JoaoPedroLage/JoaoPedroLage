@@ -18,6 +18,7 @@
       <br>
       <img height="50%" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
       <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=7&theme=dark"/>
+      <br>
       <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrolage&theme=dark" alt="joaopedrolage" />
       <br>
       <br>
