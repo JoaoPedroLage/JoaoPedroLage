@@ -1,17 +1,17 @@
 <h1>
-  🇧🇷 - Olá
+  :brazil: - Olá
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px" height="30px">
   ! É um prazer ter você aqui!
 </h1>
 <h1>
-  🇺🇸 - Hi
+  :us: - Hi
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px" height="30px">
   ! It's a pleasure!
 </h1>
 <br>
-<span>🇧🇷 - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
+<span>:brazil: - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
 <br>
-<span>🇺🇸 - To open links in a new tab use CTRL + mouse click</span>
+<span>:us: - To open links in a new tab use CTRL + mouse click</span>
 
 <div align="center">
       <br>
@@ -25,7 +25,7 @@
     </a>
 </div>
 
-<h2>🇧🇷 - Tecnologias | 🇺🇸 - Technologies</h2>
+<h2>:brazil: - Tecnologias | :us: - Technologies</h2>
 <section>
   <a href="https://isocpp.org/std/the-standard">
     <img 
@@ -121,7 +121,7 @@
   </a>
 </section>
 
-<h2>🇧🇷 - Educação | 🇺🇸 - Education</h2>
+<h2>:brazil: - Educação | :us: - Education</h2>
 <section>
   <a href="https://github.com/betrybe">
     <img 
@@ -130,7 +130,7 @@
     />
 </section>
 
-<h2>🇧🇷 - Você pode me contatar através do | 🇺🇸 - You can reach me at</h2>
+<h2>:brazil: - Você pode me contatar através do | :us: - You can reach me at</h2>
 <section>
   <a href="https://www.linkedin.com/in/joaopedrolage/">
     <img
