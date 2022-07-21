@@ -8,10 +8,6 @@
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px" height="30px">
   ! It's a pleasure!
 </h1>
-<br>
-<span>:brazil: - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
-<br>
-<span>:us: - To open links in a new tab use CTRL + mouse click</span>
 
 <div align="center">
       <br>
@@ -24,6 +20,13 @@
       <br>
     </a>
 </div>
+
+##
+
+<br>
+<span>:brazil: - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
+<br>
+<span>:us: - To open links in a new tab use CTRL + mouse click</span>
 
 <h2>:brazil: - Tecnologias | :us: - Technologies</h2>
 <section>
