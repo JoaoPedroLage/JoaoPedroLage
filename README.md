@@ -18,7 +18,6 @@
 
 ##
 
-<br>
 <span>:brazil: - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
 <br>
 <span>:us: - To open links in a new tab use CTRL + mouse click</span>
