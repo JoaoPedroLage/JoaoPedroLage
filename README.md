@@ -27,6 +27,22 @@
 <span>:brazil: - Para abrir os links em uma nova aba use CTRL + click botão do mouse</span>
 <br>
 <span>:us: - To open links in a new tab use CTRL + mouse click</span>
+<h2>:brazil: - Você pode me contatar através do | :us: - You can reach me at</h2>
+
+<section>
+  <a href="https://www.linkedin.com/in/joaopedrolage/">
+    <img
+      height="40"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="mailto:joaopedro.lage@outlook.com">
+    <img 
+      height="40"
+      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    />
+  </a>
+</section>
 
 <h2>:brazil: - Tecnologias | :us: - Technologies</h2>
 <section>
@@ -132,23 +148,7 @@
       src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88"
     />
 </section>
-
-<h2>:brazil: - Você pode me contatar através do | :us: - You can reach me at</h2>
-<section>
-  <a href="https://www.linkedin.com/in/joaopedrolage/">
-    <img
-      height="40"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="mailto:joaopedro.lage@outlook.com">
-    <img 
-      height="40"
-      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    />
-  </a>
-</section>
   
- <br>
+##
   
  ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
