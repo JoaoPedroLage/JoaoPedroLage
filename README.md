@@ -142,7 +142,3 @@
       src="https://img.shields.io/badge/Trybe-blueviolet?color=2EBB88"
     />
 </section>
-  
-##
-  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/JoaoPedroLage/JoaoPedroLage/output/github-contribution-grid-snake.svg)
