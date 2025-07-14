@@ -1,14 +1,11 @@
 <h1 align="center">
-  :brazil: - Olá <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px">! Bem-vindo ao meu perfil!
-  <br>
-  :us: - Hi <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px">! Welcome to my profile!
+  Hi! Welcome to my profile! <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/wave_Mdjm5gVSL.gif" width="30px">
 </h1>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=8&theme=dark"/>
   <br>
-  <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaopedrolage&theme=dark" alt="joaopedrolage" />
 </div>
 
 ##
@@ -79,7 +76,6 @@
   <a href="https://www.betrybe.com/" target="_blank">
     <img src="https://img.shields.io/badge/Trybe-2FC18C?style=for-the-badge"/>
   </a>
-  <span>Desenvolvimento Web Full Stack | Full Stack Web Development</span>
 </p>
 
 <h2>📊 GitHub Stats</h2>
