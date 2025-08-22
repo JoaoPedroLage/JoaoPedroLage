@@ -20,7 +20,7 @@
     <img height="30" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="https://joaopedrolage.github.io/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+    <img height="30" src="https://img.shields.io/badge/Portfolio-%23000000.svg?Color=#FF7139"/>
   </a>
 </p>
 
