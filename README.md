@@ -1,12 +1,7 @@
 <h1 align="center">
   Hi! I'm João Pedro de Oliveira Lage 👋
 </h1>
-<h3 align="center">Mid-Level Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroLage&show_icons=true&theme=dark&include_all_commits=true&count_private=true" onerror="this.style.display='none'"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroLage&layout=compact&langs_count=8&theme=dark" onerror="this.style.display='none'"/>
-</div>
+<h3 align="center">Software Engineer | Full Stack Developer | AI & Cloud Enthusiast</h3>
 
 ##
 
@@ -73,10 +68,4 @@ I am a **Mid-Level Software Engineer** based in Belo Horizonte, Brazil, with ove
   <a href="https://joao-pedro-lage-dev.netlify.app/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=linkedin?Color=#FF7139" />
   </a>
-</p>
-
-##
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaopedrolage&theme=onedark&row=1&column=6" onerror="this.style.display='none'"/>
 </p>
