@@ -50,7 +50,7 @@ I am a **Mid-Level Software Engineer** based in Belo Horizonte, Brazil, with ove
 
 <h2>🚀 Featured Projects & Interests</h2>
 
-- **AI & Automation:** Builder of LLM-based applications like *Las IAI* and commercial automation solutions like *BrandaoGymBotChat* for WhatsApp.
+- **AI & Automation:** Builder of LLM-based applications.
 - **Game Development:** Creator of *Pokémon Golden Island*, showcasing advanced logic and retro-style game dev capabilities.
 - **Quality Assurance:** Experience in AI-generated code quality assurance, ensuring robust and scalable deliveries.
 
