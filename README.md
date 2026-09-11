@@ -12,7 +12,7 @@ I am a **Mid-Level Software Engineer** based in Belo Horizonte, Brazil, with ove
 - 🏗️ Currently architecting full-stack applications and mobile apps using **React Native**, **Next.js**, and **TypeScript**.
 - 🤖 Actively developing AI-driven tools (LLMs) and automation bots (e.g., WhatsApp integrations).
 - ☁️ Deploying and managing infrastructure on **AWS**, **GCP**, Vercel, and Render.
-- 🎓 Pursuing a Bachelor's in **Software Engineering** at Uninter (Expected [Year]). Holds a Full Stack web dev certification and an Electronics Technician degree.
+- 🎓 Pursuing a Bachelor's in **Software Engineering** at Uninter. Holds a Full Stack web dev certification and an Electronics Technician degree.
 - 🗣️ **Native Portuguese** | **Advanced English (C1)**.
 
 ##
